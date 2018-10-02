@@ -8,8 +8,6 @@ permalink: index.html  # Is the only page that don't follow the partner /:path/i
 
 **Target audience:** Students and staff who would like to learn how to run compute jobs on Artemis HPC. Participants must have a valid USyd unikey.
 
-**Follow-on courses:** This course is designed as a 2-part session, with ‘Introduction to the Artemis HPC’ in the morning and ‘Data transfer and RDS for HPC’ in the afternoon. It is recommended to register for both, however you may choose to take these courses on separate days as suits your needs. ‘Intermediate HPC (Automation)’ is another recommended course to follow up with.
-
 > ## Prerequisites
 > Competency on the Unix/Linux command line:
 >
