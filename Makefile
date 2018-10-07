@@ -23,7 +23,7 @@ docker-serve :
 
 ## serve            : run a local server.
 serve : lesson-md
-	${JEKYLL} serve
+	${JEKYLL} serve --port 3000
 
 ## site             : build files but do not run a server.
 site : lesson-md
