@@ -29,6 +29,7 @@ email: "sih.training@sydney.edu.au"
 
 # Sites.
 sih_site: "http://informatics.sydney.edu.au"
+sih_pages: "https://sydney-informatics-hub.github.io"
 amy_site: "https://amy.software-carpentry.org/workshops"
 carpentries_github: "https://github.com/carpentries"
 carpentries_pages: "https://carpentries.github.io"
