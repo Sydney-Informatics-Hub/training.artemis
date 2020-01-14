@@ -1,6 +1,6 @@
-# Artemis Training Series
+# Research Computing Training
 
-This is the overview page for the Artemis training course series. The individual lessons are listed below:
+This is the overview page for the Research Computing training course series. The individual lessons are listed below:
 
 | Lesson Repo    | Overview |
 | ------- | ---------- |
@@ -15,8 +15,6 @@ This is the overview page for the Artemis training course series. The individual
 We welcome all contributions to improve our courses! Maintainers will do their best to help you if you have any
 questions, concerns, or experience any difficulties along the way.
 
-We'd like to ask you to familiarise yourself with our [Contribution Guide](CONTRIBUTING.md) and have a look at
-The Carpentries' [detailed guidelines][lesson-example] on proper formatting, ways to render the lesson locally, and even how to write new episodes.
 
 ## Maintainer(s)
 
@@ -26,5 +24,3 @@ The Carpentries' [detailed guidelines][lesson-example] on proper formatting, way
 
 Contact [sih.training@sydney.edu.au](mailto:sih.training@sydney.edu.au).
 
-
-[lesson-example]: https://carpentries.github.io/lesson-example
