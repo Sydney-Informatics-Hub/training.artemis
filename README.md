@@ -10,6 +10,8 @@ This is the overview page for the Research Computing training course series. The
 |[Matlab on Artemis: The MDCS](https://informatics.sydney.edu.au/training/coursedocs/MDCS_MatlabTraining.pdf) | Artemis HPC hosts a Matlab Distributed Computing Server (MDCS) - this allows users to submit MATLAB jobs directly to Artemis from within their local Matlab instance on their machines. Come and learn how to use this service. |
 |[Introduction to GPU computing with HPC](https://github.sydney.edu.au/informatics/training.artemis.gpu) | Introduces GPU computing, and running GPU jobs on Artemis and other HPC systmes. |
 
+The rendered version of this page is live at: https://sydney-informatics-hub.github.io/training.artemis/
+
 ## Contributing
 
 We welcome all contributions to improve our courses! Maintainers will do their best to help you if you have any
