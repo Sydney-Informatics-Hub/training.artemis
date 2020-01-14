@@ -4,19 +4,19 @@ root: .  # Is the only page that don't follow the partner /:path/index.html
 permalink: index.html  # Is the only page that don't follow the partner /:path/index.html
 ---
 
-**Synopsis:** This series of lessons get running your computing Learn about the University of Sydney’s High Performance Computer (HPC) ‘Artemis’, including directory structure, software, and how to submit and monitor compute jobs using the PBS Pro scheduling software. Artemis is available at no cost to University of Sydney staff and students.
+**Synopsis:** This series of lessons cover some of the research computing services offered by the Sydney Informatics Hub at the University of Sydney. You can learn about High Performance Computing (HPC) including our in-house HPC ‘Artemis’, plus our in-house data storage capabilities, and how to make use of these and other research computing facilities. 
 
-**Target audience:** Students and staff who would like to learn how to run compute jobs on Artemis HPC. Participants must have a valid USyd unikey.
+**Target audience:** For the actual workshops participants must have a valid University of Sydney unikey. Otherwise you are free to adapt this content for your own use. Check the calander for upcoming live sessions.
 
 > ## Prerequisites
 > Competency on the Unix/Linux command line:
 >
-> * If you are interested in learning HPC but have no Unix/Linux command-line skills, you MUST first take an [Introduction to Unix/Linux](https://intersect.org.au/training/course/unix) course.
+> * If you are interested in learning research computing and HPC but have no Unix/Linux command-line skills, you should first take an [Introduction to Unix/Linux](https://intersect.org.au/training/course/unix) course to understand some of the fundamental concepts.
 >
-> **OWN LAPTOP REQUIRED**.
+> For the workshops participants will generally require there own laptop.
 {: .prereq}
 
-# Workshop Overview
+# Workshops
 
 | Lesson    | Overview |
 | ------- | ---------- |
@@ -25,6 +25,9 @@ permalink: index.html  # Is the only page that don't follow the partner /:path/i
 |[Intermediate Artemis HPC (Automation)]({{ site.sih_pages }}/training.artemis.interhpc) | Learn how to automate multiple-run analyses with job arrays and do simple bash scripting on Artemis. The live training consists of two hours of instruction and practical exercises. |
 |[Matlab on Artemis: The MDCS]({{ site.sih_pages }}/training.artemis.mdcs) | Artemis HPC hosts a Matlab Distributed Computing Server (MDCS) - this allows users to submit MATLAB jobs directly to Artemis from within their local Matlab instance on their machines. Come and learn how to use this service. |
 |[Introduction to GPU computing with HPC]({{ site.sih_pages }}/training.artemis.gpu) | Introduces GPU computing, and running GPU jobs on Artemis and other HPC systmes. |
+
+## Contact
+Contact us at sih.training@sydney.edu.au for any feedback or questions.
 
 ## Code Of Conduct
 We expect all attendees of our training to follow the University of Sydney’s Staff and Student Codes of Conduct, including the Bullying, harassment and discrimination prevention policy.
