@@ -6,14 +6,14 @@ permalink: index.html  # Is the only page that don't follow the partner /:path/i
 
 **Synopsis:** This series of lessons cover some of the research computing services offered by the Sydney Informatics Hub at the University of Sydney. You can learn about High Performance Computing (HPC) including our in-house HPC ‘Artemis’, plus our in-house data storage capabilities, and how to make use of these and other research computing facilities. 
 
-**Target audience:** For the actual workshops participants must have a valid University of Sydney unikey. Otherwise you are free to adapt this content for your own use. Check the calander for upcoming live sessions.
+**Target audience:** Researchers and students looking to use the University of Sydney High performance Computer. For the actual workshops participants must have a valid University of Sydney unikey. Otherwise you are free to adapt this content for your own use. Check the calander for upcoming live sessions.
 
 > ## Prerequisites
 > Competency on the Unix/Linux command line:
 >
 > * If you are interested in learning research computing and HPC but have no Unix/Linux command-line skills, you should first take an [Introduction to Unix/Linux](https://intersect.org.au/training/course/unix) course to understand some of the fundamental concepts.
 >
-> For the workshops participants will generally require there own laptop.
+> For the workshops participants will generally require their own laptop.
 {: .prereq}
 
 # Workshops
