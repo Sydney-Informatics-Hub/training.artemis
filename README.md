@@ -9,6 +9,7 @@ This is the overview page for the Research Computing training course series. The
 |[Intermediate Artemis HPC](https://github.sydney.edu.au/informatics/training.artemis.interhpc) | Learn how to automate multiple-run analyses with job arrays and do simple bash scripting on Artemis. The live training consists of two hours of instruction and practical exercises. |
 |[Matlab on Artemis: The MDCS](https://informatics.sydney.edu.au/training/coursedocs/MDCS_MatlabTraining.pdf) | Artemis HPC hosts a Matlab Distributed Computing Server (MDCS) - this allows users to submit MATLAB jobs directly to Artemis from within their local Matlab instance on their machines. Come and learn how to use this service. |
 |[Introduction to GPU computing with HPC](https://github.sydney.edu.au/informatics/training.artemis.gpu) | Introduces GPU computing, and running GPU jobs on Artemis and other HPC systmes. |
+|[Parallel Python](https://github.com/Sydney-Informatics-Hub/training.artemis.python) | Learn some simple and effective tools and logic to make your Python code faster, then learn how to use brute force to scale it on a HPC cluster. |
 
 The rendered version of this page is live at: https://sydney-informatics-hub.github.io/training.artemis/
 
