@@ -25,7 +25,7 @@ permalink: index.html  # Is the only page that don't follow the partner /:path/i
 |[Intermediate Artemis HPC (Automation)]({{ site.sih_pages }}/training.artemis.interhpc) | Learn how to automate multiple-run analyses with job arrays and do simple bash scripting on Artemis. The live training consists of two hours of instruction and practical exercises. |
 |[Matlab on Artemis: The MDCS](https://informatics.sydney.edu.au/training/coursedocs/MDCS_MatlabTraining.pdf) | Artemis HPC hosts a Matlab Distributed Computing Server (MDCS) - this allows users to submit MATLAB jobs directly to Artemis from within their local Matlab instance on their machines. Come and learn how to use this service. |
 |[Introduction to GPU computing with HPC]({{ site.sih_pages }}/training.artemis.gpu) | Introduces GPU computing, and running GPU jobs on Artemis and other HPC systmes. |
-|[Parallel Python](https://github.com/Sydney-Informatics-Hub/training.artemis.python) | Learn some simple and effective tools and logic to make your Python code faster, then learn how to use brute force to scale it on a HPC cluster. |
+|[Parallel Python]({{ site.sih_pages }}/training.artemis.python) | Learn some simple and effective tools and logic to make your Python code faster, then learn how to use brute force to scale it on a HPC cluster. |
 
 ## Contact
 Contact us at sih.training@sydney.edu.au for any feedback or questions.
