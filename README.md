@@ -11,6 +11,7 @@ This is the overview page for the Research Computing training course series. The
 |[Introduction to GPU computing with HPC](https://github.sydney.edu.au/informatics/training.artemis.gpu) | Introduces GPU computing, and running GPU jobs on Artemis and other HPC systmes. |
 |[Introduction to GPU computing on Windows 10](https://sydney-informatics-hub.github.io/training.argus.gpu/) | Introduces GPU computing, and running GPU jobs on the Argus Virtual Research Desktops. A windows 10 machine.  |
 |[Parallel Python](https://github.com/Sydney-Informatics-Hub/training.artemis.python) | Learn some simple and effective tools and logic to make your Python code faster, then learn how to use brute force to scale it on a HPC cluster. |
+|[Blockchain for Researchers](https://sydney-informatics-hub.github.io/training.blockchain/) | This course is aimed at researchers who want to learn more about the blockchain and various use cases for it. |
 
 The rendered version of this page is live at: https://sydney-informatics-hub.github.io/training.artemis/
 
