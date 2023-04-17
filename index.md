@@ -27,7 +27,7 @@ permalink: index.html  # Is the only page that don't follow the partner /:path/i
 |[Introduction to GPU computing with HPC]({{ site.sih_pages }}/training.artemis.gpu) | Introduces GPU computing, and running GPU jobs on Artemis and other HPC systmes. |
 |[Introduction to GPU computing on Windows 10]({{ site.sih_pages }}/training.argus.gpu/) | Introduces GPU computing, and running GPU jobs on the Argus Virtual Research Desktops. A windows 10 machine.  |
 |[Parallel Python]({{ site.sih_pages }}/training.artemis.python) | Learn some simple and effective tools and logic to make your Python code faster, then learn how to use brute force to scale it on a HPC cluster. |
-|[Blockchain for Researcher]({{ site.sih_pages }}/training.blockchain) | Learn about the blockchain, what it is, why it is interesting, how to write simple web3 applications. |
+|[Blockchain for Research]({{ site.sih_pages }}/training.blockchain) | Learn about the blockchain, what it is, why it is interesting, how to write simple web3 applications. |
 
 
 
